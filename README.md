@@ -1,2 +1,2 @@
 ### A simple library manager...
-I didn't add much features as it was just for practicing OOP
+I didn't add much features and error handling as it was just for practicing OOP
